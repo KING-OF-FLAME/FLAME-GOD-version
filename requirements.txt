@@ -1,0 +1,8 @@
+python-decouple
+telethon
+cryptg
+heroku3
+sqlalchemy
+psycopg2
+gitpython
+asyncio
