@@ -1,4 +1,4 @@
-## FLAMES SPAM BOT
+## FLAMES SPAM BOT ( GOD VERSION )
 
 <p align="center">
   <img src="https://telegra.ph/file/e4acd32d8f8f64591a2a0.jpg">
