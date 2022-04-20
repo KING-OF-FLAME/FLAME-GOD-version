@@ -33,7 +33,7 @@
 
 #### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/KING-OF-FLAME/Deploy">
+<a href="https://www.heroku.com/deploy?template=https://github.com/KING-OF-FLAME/FLAME-GOD-version">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
