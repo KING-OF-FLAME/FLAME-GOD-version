@@ -35,7 +35,7 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/flamebots"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/third_degree_torture")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/thekingofflame786")
         ],
         [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/KING-OF-FLAME/FLAME-GOD-version/")
