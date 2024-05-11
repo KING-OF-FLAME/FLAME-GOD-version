@@ -36,7 +36,7 @@ async def help(event):
                                   caption=FLAME_Help,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/thirddegreetorture")
+        Button.url("owner", "https://t.me/thekingofflame786")
         ] 
         ]
         )                                                         
